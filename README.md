@@ -1,2 +1,2 @@
 # teaching-data-science-emas
-Material course Data Science, Executive Master Actuarial Science
+Material accompanying the course Data Science of the Executive Master Actuarial Science (EMAS) of the Dutch Actuarial Institute.
