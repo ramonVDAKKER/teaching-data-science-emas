@@ -1,5 +1,5 @@
 # teaching-data-science-emas
-Auxiliary material course **Data Science** of the Msc Executive Master Actuarial Science (Dutch Actuarial Institute):
+Auxiliary material course **Data Science** of the Msc program _Executive Master Actuarial Science_ offered by the Dutch Actuarial Institute:
 - slides; 
 - notebooks.
 
